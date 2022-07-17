@@ -4,7 +4,7 @@ Date: July 17, 2022
 
 # Fifteenth challange of [JavaScript30](https://javascript30.com/)
 
-. To experience on your own visit [here](https://rohit-saini7.github.io/14-JavaScript-Refrences-Vs-Copying/).
+How to use localStorage in a website is shown in this challange. To experience on your own visit [here](https://rohit-saini7.github.io/14-JavaScript-Refrences-Vs-Copying/).
 
 ## What is JavaScript 30
 
